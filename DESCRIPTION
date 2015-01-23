@@ -1,0 +1,10 @@
+Package: speakerdeck
+Type: Package
+Title: get Info from Speakerdeck
+Version: 0.1
+Date: 2015-01-23
+Author: dichika
+Maintainer: dichika <yourfault@somewhere.net>
+Description: get the information from Speakerdeck
+License: MIT
+Imports: httr
